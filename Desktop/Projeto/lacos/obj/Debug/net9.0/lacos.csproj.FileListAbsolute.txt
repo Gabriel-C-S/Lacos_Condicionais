@@ -1,0 +1,14 @@
+C:\Users\gabri\Desktop\Projeto\lacos\bin\Debug\net9.0\lacos.exe
+C:\Users\gabri\Desktop\Projeto\lacos\bin\Debug\net9.0\lacos.deps.json
+C:\Users\gabri\Desktop\Projeto\lacos\bin\Debug\net9.0\lacos.runtimeconfig.json
+C:\Users\gabri\Desktop\Projeto\lacos\bin\Debug\net9.0\lacos.dll
+C:\Users\gabri\Desktop\Projeto\lacos\bin\Debug\net9.0\lacos.pdb
+C:\Users\gabri\Desktop\Projeto\lacos\obj\Debug\net9.0\lacos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\Projeto\lacos\obj\Debug\net9.0\lacos.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\Projeto\lacos\obj\Debug\net9.0\lacos.AssemblyInfo.cs
+C:\Users\gabri\Desktop\Projeto\lacos\obj\Debug\net9.0\lacos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projeto\lacos\obj\Debug\net9.0\lacos.dll
+C:\Users\gabri\Desktop\Projeto\lacos\obj\Debug\net9.0\refint\lacos.dll
+C:\Users\gabri\Desktop\Projeto\lacos\obj\Debug\net9.0\lacos.pdb
+C:\Users\gabri\Desktop\Projeto\lacos\obj\Debug\net9.0\lacos.genruntimeconfig.cache
+C:\Users\gabri\Desktop\Projeto\lacos\obj\Debug\net9.0\ref\lacos.dll
