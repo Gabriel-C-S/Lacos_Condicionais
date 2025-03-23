@@ -30,7 +30,7 @@ namespace lacos
                 Console.WriteLine("Por favor, insira um número válido para C.");
             }
 
-            int soma = A + B;
+            int = A + B;
 
             if (soma > C)
             {
